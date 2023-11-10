@@ -1,4 +1,4 @@
-<h1>Hello There!</h1>
+<h2>Hello There!</h2>
 <h2>Here you can see my informations!</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
