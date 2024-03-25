@@ -5,7 +5,7 @@
 <a href="https://github.com/GabrielMonteiroR/POO_Airliness" target="_blank" rel="noopener noreferrer">
   <img src="https://www.svgrepo.com/show/500079/airport.svg" alt="Airport" width="80">
 </a>
-<p style="font-family: 'Roboto', sans-serif;">Trabalho POO</p>
+<p style="font-family: 'Roboto', sans-serif;"><strong>Trabalho POO</strong></p>
 
 <h3 style="font-family: 'Roboto';">Languages</h3>
 <div style="display: inline-block;">
