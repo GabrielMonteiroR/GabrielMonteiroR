@@ -4,11 +4,11 @@
 <a href="https://github.com/GabrielMonteiroR/Trabalho-Estrutura-de-dados" target="_blank" rel="noopener noreferrer">
   <img src="https://www.svgrepo.com/show/133681/doormat.svg" alt="Estrutura de Dados" width="100px">
 </a>
-<h3 style="font-family: 'Roboto';">Trabalhos</h3>
+<h3 style="font-family: 'Roboto';">College Assignments</h3>
 <a href="https://github.com/GabrielMonteiroR/POO_Airliness" target="_blank" rel="noopener noreferrer">
   <img src="https://www.svgrepo.com/show/500079/airport.svg" alt="Airport" width="80">
 </a>
-<p style="font-family: 'Roboto', sans-serif;"><strong>Trabalho POO</strong></p>
+<p style="font-family: 'Roboto', sans-serif;"><strong>OOP Airport</strong></p>
 
 <h3 style="font-family: 'Roboto';">Languages</h3>
 <div style="display: inline-block;">
