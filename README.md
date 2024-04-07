@@ -9,7 +9,7 @@
     <tr>
       <td>
         <a href="#" target="_blank" rel="noopener noreferrer">
-          <img src="https://www.svgrepo.com/show/530618/hotel.svg" alt="Hotel" width="50px" style="margin-right: 15px;">
+          <img src="https://www.svgrepo.com/show/530618/hotel.svg" alt="Hotel" width="35px" style="margin-right: 15px;">
         </a>
       </td>
       <td>
@@ -17,7 +17,7 @@
       </td>
       <td>
         <a href="#" target="_blank" rel="noopener noreferrer">
-          <img src="https://www.svgrepo.com/show/530618/hotel.svg" alt="Hotel" width="50px" style="margin-left: 15px;">
+          <img src="https://www.svgrepo.com/show/530618/hotel.svg" alt="Hotel" width="35px" style="margin-left: 15px;">
         </a>
       </td>
     </tr>
