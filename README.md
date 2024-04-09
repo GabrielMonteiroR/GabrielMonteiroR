@@ -29,7 +29,8 @@
 
 | OOP Airport | Java Assignment |
 |:------------:|:---------------:|
-| <a href="https://github.com/GabrielMonteiroR/POO_Airliness" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/500079/airport.svg" alt="Airport" width="50px"></a> | <a href="https://github.com/GabrielMonteiroR/University_Java_Assigment" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50px"></a> |
+| <a href="[https://github.com/GabrielMonteiroR/POO_Airlines](https://github.com/GabrielMonteiroR/University_OOP_Airport)" target="_blank" rel="noopener noreferrer">
+<img src="https://www.svgrepo.com/show/500079/airport.svg" alt="Airport" width="50px"></a> | <a href="[https://github.com/GabrielMonteiroR/University_Java_Assigment](https://github.com/GabrielMonteiroR/University_dataStructure)" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50px"></a> |
 
 
 
