@@ -2,8 +2,6 @@
 
 ### WELCOME!!!
 
-[<img src="https://www.svgrepo.com/show/133681/doormat.svg" alt="Estrutura de Dados" width="100px" height="100px">]([[https://github.com/GabrielMonteiroR/Trabalho-Estrutura-de-dados](https://github.com/GabrielMonteiroR/University_dataStructure.git)](https://github.com/GabrielMonteiroR/University_dataStructure))
-
 <div style="text-align: center;">
   <table style="border-collapse: collapse;">
     <tr>
@@ -24,15 +22,9 @@
   </table>
 </div>
 
-
-
-
-| OOP Airport | Java Assignment |
+| OOP Airport | Data Structures |
 |:------------:|:---------------:|
-| <a href="[https://github.com/GabrielMonteiroR/POO_Airlines](https://github.com/GabrielMonteiroR/University_OOP_Airport)" target="_blank" rel="noopener noreferrer">
-<img src="https://www.svgrepo.com/show/500079/airport.svg" alt="Airport" width="50px"></a> | <a href="[https://github.com/GabrielMonteiroR/University_Java_Assigment](https://github.com/GabrielMonteiroR/University_dataStructure)" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50px"></a> |
-
-
+| <a href="https://github.com/GabrielMonteiroR/University_OOP_Airport" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/500079/airport.svg" alt="Airport" width="50px"></a> | <a href="https://github.com/GabrielMonteiroR/University_dataStructure" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50px"></a> |
 
 ### Languages
 <div>
