@@ -1,52 +1,23 @@
-<div align="center">
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*m1KBmnuoOlywWqba.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-### WELCOME!!!
 
-<div style="text-align: center;">
-  <table style="border-collapse: collapse;">
-    <tr>
-      <td>
-        <a href="#" target="_blank" rel="noopener noreferrer">
-          <img src="https://www.svgrepo.com/show/530618/hotel.svg" alt="Hotel" width="35px" style="margin-right: 15px;">
-        </a>
-      </td>
-      <td>
-        <h3>College Assignments</h3>
-      </td>
-      <td>
-        <a href="#" target="_blank" rel="noopener noreferrer">
-          <img src="https://www.svgrepo.com/show/530618/hotel.svg" alt="Hotel" width="35px" style="margin-left: 15px;">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="left"> 
+  Graduando em análise e desenvolvimento de sistemas, sou <strong>Desenvolvedor backend</strong>.<br>
+</p>
 
-| OOP Airport | Data Structures |
-|:------------:|:---------------:|
-| <a href="https://github.com/GabrielMonteiroR/University_OOP_Airport" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/500079/airport.svg" alt="Airport" width="50px"></a> | <a href="https://github.com/GabrielMonteiroR/University_dataStructure" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50px"></a> |
+<p align="left">
+  🦑 Linguagens: .NET, C#
+</p>
 
-### Knowledge
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px">
-    
-          
-    
-          
-</div>
+<p align="left">
+  🤖 Ferramentas: NET Core, NET Maui
+</p>
 
-<hr>
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
 
-</div>
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMonteiroR&layout=compact&theme=dark)](https://github.com/GabrielMonteiroR/NLW4-ReactJS)
-
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMonteiroR&show_icons=true&theme=dark)](https://github.com/GabrielMonteiroR)
-
-</div>
+<p align="left">
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/gabriel-monteiro-58706b280" alt="LinkedIn"/></a>
+</p>
