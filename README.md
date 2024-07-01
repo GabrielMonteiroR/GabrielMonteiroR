@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*m1KBmnuoOlywWqba.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*m1KBmnuoOlywWqba.png" alt="ilustração de um computador" min-width="600px" max-width="600px" width="600px" align="right">
 
 
 <p align="left"> 
