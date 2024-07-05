@@ -2,7 +2,7 @@
 
 
 <p align="left"> 
-  Graduando em análise e desenvolvimento de sistemas, sou <strong>Desenvolvedor backend</strong>.<br>
+  Graduando em análise e desenvolvimento de sistemas.</br> <strong>Desenvolvedor backend</strong>.<br>
 </p>
 
 <p align="left">
