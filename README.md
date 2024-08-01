@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/ad18af9d05552659a65616f0d2bab69ec42a309eef73dd5ba0f1ec518d0c5240/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f666f726d61743a776562702f302a6d314b426d6e756f4f6c7977577162612e706e67" />
+  <img height="150" src="https://dotnet.microsoft.com/blob-assets/images/illustrations/learn/tools.svg" />
 </div>
 
 ###
