@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Graduando em Análise e Desenvolvimento de Sistemas, atualmente no 4º período e com foco em desenvolvimento backend.</p>
+<p align="left">Graduando em Análise e Desenvolvimento de Sistemas (4º Período), com foco principal em desenvolvimento back-end e conhecimento em tecnologias .NET, como C#, Entity Framework e ASP.NET Core.</p>
 
 ###
 
