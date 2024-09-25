@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="220" src="https://dotnet.microsoft.com/blob-assets/images/illustrations/why-ecosystem.svg" />
+  <img height="180" src="https://dotnet.microsoft.com/blob-assets/images/illustrations/why-ecosystem.svg" />
 </div>
 
-<h1 align="center">Bem-vindo 👋</h1>
+<h2 align="center">Bem-vindo 👋</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-monteiro-58706b280/" target="_blank">
