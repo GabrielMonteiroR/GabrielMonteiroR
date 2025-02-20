@@ -1,12 +1,9 @@
-# Hi there! 👋
+### Hi there! 👋
 
 Welcome to my GitHub profile! 
 
-<img src="https://github.com/user-attachments/assets/48f7abfe-0e46-4623-98e5-45950d71e65e" alt=".NET bot" width="200" />
 
----
-
-## 🛠️ My Tech Stack
+### 🛠️ My Tech Stack
 
 | **Languages** | **Frameworks** | **Databases** |
 |--|--|--|
@@ -14,10 +11,10 @@ Welcome to my GitHub profile!
 
 ---
 
-## 🌟 About Me
+### 🌟 About Me
 
 - 🌱 Currently improving my skills in **backend development**.
 
-## 📫 Let's Connect!
+### 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/gabriel-monteiro-58706b280/)
